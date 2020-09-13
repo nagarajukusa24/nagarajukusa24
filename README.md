@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Iam Nagaraju Kusa and I'm a student from Rajiv Gandhi University of Knowledge Technologies (RGUKT - IIIT), Basar campus, Telangana State.
+- 🎓 Iam Nagaraju Kusa and I'm a student from Rajiv Gandhi University of Knowledge Technologies (RGUKT - IIIT), Basar campus, Telangana State.
 - 🌱 I’m a Computer Science & Engineering Under Graduate.
 - 👯 I’m looking to collaborate on Exploring & Developing multimodel systems using AI, ML, Applied Deep Learning & Blockchains
 <!--
@@ -9,6 +9,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🔭
 -->
 
 <!--
