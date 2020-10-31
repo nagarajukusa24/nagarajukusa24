@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-- 🎓 Iam Nagaraju Kusa and I'm a student from Rajiv Gandhi University of Knowledge Technologies (RGUKT - IIIT), Basar campus, Telangana State.
-- 🌱 I’m a Computer Science & Engineering Under Graduate.
+- 🎓 Iam an Under Graduate Student of Computer Science & Engineering {Bachelor of Technology} from Rajiv Gandhi University of Knowledge Technologies (RGUKT) -          Basar, Telangana State, India
+
+- ⚡  I work on problems involving Machine Learning, Applied Deep Learning, Computer Vision & Natural Language Processing. Iam always fascinate to work in Research      & Development (R & D Engineering) teams. Building real-time applications using broad senses of engineering like AI, Blockchains & Cloud has always been my        passion.
+
+- 🌱 Iam currently working on "Facial Anti Spoofing Attacks Prevention", a Research Oriented Deep Learning Project at NIT Warangal as Under Graduate Researcher.
+
 - 👯 I’m looking to collaborate on Exploring & Developing multimodel systems using AI, ML, Applied Deep Learning & Blockchains
+
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
