@@ -25,7 +25,8 @@ I work on problems involving Machine Learning, Applied Deep Learning, Computer V
 I’m looking to collaborate on Exploring & Developing multimodel systems using AI, ML, Applied Deep Learning & Blockchains
 - 👯 
 Here are some ideas to get you started:
-
+CS Under Grad  at RGUKT IIIT Basar
+Student | Researcher | Developer |
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
