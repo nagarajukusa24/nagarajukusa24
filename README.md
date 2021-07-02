@@ -6,6 +6,7 @@
 
 - 🔭 Previously, I have worked as a Research Intern for a an year at NIT - Warangal. Also, Machine Learning Intern for two months at Vitwit - India. 
 
+-
 
 
 
@@ -20,6 +21,7 @@
 -->
 
 <!--
+
 **nagarajukusa24/nagarajukusa24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I work on problems involving Machine Learning, Applied Deep Learning, Computer Vision & Natural Language Processing. Iam always fascinate to work in Research      & Development (R & D Engineering) teams. Building real-time applications using broad senses of engineering like AI, Blockchains & Cloud has always been my        passion.
 I’m looking to collaborate on Exploring & Developing multimodel systems using AI, ML, Applied Deep Learning & Blockchains
@@ -35,4 +37,5 @@ Student | Researcher | Developer |
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
