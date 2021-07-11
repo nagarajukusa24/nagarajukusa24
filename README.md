@@ -35,6 +35,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/nagarajukusa24)  
 
+https://github-profile-trophy.vercel.app/?username=nagarajukusa24&no-bg=true
 
 
 
